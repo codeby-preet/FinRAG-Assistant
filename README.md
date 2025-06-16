@@ -1,7 +1,7 @@
-# InsightRAG – Context-Aware RAG-Based Insight Assistant
+# FinRAG – Context-Aware RAG-Based Insight Assistant
 
 ### Objective
-InsightRAG harnesses the power of Retrieval-Augmented Generation (RAG) to deliver intelligent, context-aware insights by integrating information from diverse and dynamic document sources. It is designed to assist analysts, professionals, and decision-makers by synthesizing relevant, accurate, and up-to-date content across domains such as business, research, policy, and more.
+FinRAG harnesses the power of Retrieval-Augmented Generation (RAG) to deliver intelligent, context-aware insights by integrating information from diverse and dynamic document sources. It is designed to assist analysts, professionals, and decision-makers by synthesizing relevant, accurate, and up-to-date content across domains such as business, research, policy, and more.
 
 ### How can it be useful
 1. **Efficient Data Retrieval**: Quickly retrieves relevant financial documents, market data, and news articles from multiple sources, saving time and effort in manual data collection.
