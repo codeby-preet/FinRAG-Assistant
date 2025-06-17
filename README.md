@@ -178,16 +178,6 @@ The system:
 
 ---
 
-## 📈 Future Improvements
-
-- Add web-based document upload
-- Stream response tokens from the LLM
-- Integrate web search (Tavily, SerpAPI)
-- Memory + chat history
-- Fine-tune retriever parameters (`k`, `reranker`, etc.)
-
----
-
 ## 👨‍💻 Author
 
 **Arnav Gupta**  
