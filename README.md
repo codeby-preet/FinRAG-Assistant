@@ -180,7 +180,7 @@ The system:
 
 ## 👨‍💻 Author
 
-**Arnav Gupta**  
+**Gurpreet Singh**  
 🟢 GitHub: [codeby-preet](https://github.com/codeby-preet)  
 📫 Reach out via GitHub issues for feedback or questions!
 
