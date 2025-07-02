@@ -106,7 +106,7 @@ FinRAG-Assistant/
 ### 1. 🧪 Clone the Repository
 
 ```bash
-git clone https://github.com/arrnavgg/FinRAG-Assistant.git
+git clone https://github.com/codeby-preet/FinRAG-Assistant.git
 cd FinRAG-Assistant
 ```
 
@@ -181,7 +181,7 @@ The system:
 ## 👨‍💻 Author
 
 **Arnav Gupta**  
-🟢 GitHub: [arrnavgg](https://github.com/arrnavgg)  
+🟢 GitHub: [codeby-preet](https://github.com/codeby-preet)  
 📫 Reach out via GitHub issues for feedback or questions!
 
 ---
